@@ -1,0 +1,16 @@
+.img {
+    width : 100%;
+    height: 5rem;
+}
+.container {
+    padding-top: 1rem;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color:white;
+}
+
+.appBar{
+    background-color: gray;
+}
